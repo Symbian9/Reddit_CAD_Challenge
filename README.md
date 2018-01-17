@@ -16,32 +16,32 @@ All challenges from [/r/cad](http://reddit.com/r/cad/) for draftsmans, draftswom
 
 | Challenge | Description | `/r/cad` | [FreeCAD](http://github.com/freecad/freecad/releases/) | [SolveSpace](http://github.com/solvespace/solvespace/releases/) | [LibreCAD](http://github.com/librecad/librecad/releases/) | Other CAD |
 | ---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| #1 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge_001.md) | [join](https://www.reddit.com/r/cad/comments/58skch/weekly_challenge_1/) | | | | |
-| #2 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge_002.md) | [join](https://www.reddit.com/r/cad/comments/59th79/weekly_challenge_2/) | | | | |
-| #3 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge_003.md) | [join](https://www.reddit.com/r/cad/comments/5b296e/weekly_challenge_3/) | | | | |
-| #4 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge_004.md) | [join](https://www.reddit.com/r/cad/comments/5cdbx7/weekly_challenge_4/) | | | | |
-| #5 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge_005.md) | [join](https://www.reddit.com/r/cad/comments/5dlw14/weekly_challenge_5/) | | | | |
-| #6 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge_006.md) | [join](https://www.reddit.com/r/cad/comments/5esoba/weekly_challenge_6/) | | | | |
-| #7 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge_007.md) | [join](https://www.reddit.com/r/cad/comments/5g239e/weekly_challenge_7/) | | | | |
-| #8 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge_008.md) | [join](https://www.reddit.com/r/cad/comments/5hcnzo/weekly_challenge_8/) | | | | |
-| #9 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge_009.md) | [join](https://www.reddit.com/r/cad/comments/5in0tc/cad_challenge_9/) | | | | |
-| #10 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge_010.md) | [join](https://www.reddit.com/r/cad/comments/5jwjim/cad_challenge_10/) | | | | |
-| #11 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge_011.md) | [join](https://www.reddit.com/r/cad/comments/5mcdhh/cad_challenge_11/) | | | | |
-| #12 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge_012.md) | [join](https://www.reddit.com/r/cad/comments/5np9qu/cad_challenge_12/) | | | | |
-| #13 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge_013.md) | [join](https://www.reddit.com/r/cad/comments/5p2lsd/cad_challenge_13/) | | | | |
-| #14 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge_014.md) | [join](https://www.reddit.com/r/cad/comments/5qfv41/cad_challenge_14/) | | | | |
-| #15 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge_015.md) | [join](https://www.reddit.com/r/cad/comments/5rswym/cad_challenge_15/) | | | | |
-| #16 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge_016.md) | [join](https://www.reddit.com/r/cad/comments/5t5z31/cad_challenge_16/) | | | | |
-| #17 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge_017.md) | [join](https://www.reddit.com/r/cad/comments/5ukztp/cad_challenge_17/) | | | | |
-| #18 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge_018.md) | [join](https://www.reddit.com/r/cad/comments/5vwdnc/cad_challenge_18/) | | | | |
-| #19 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge_019.md) | [join](https://www.reddit.com/r/cad/comments/5ykap4/cad_challenge_19/) | | | | |
-| #20 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge_020.md) | [join](https://www.reddit.com/r/cad/comments/5zw9ut/cad_challenge_20/) | | | | |
-| #21 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge_021.md) | [join](https://www.reddit.com/r/cad/comments/61b5ge/cad_challenge_21/) | | | | |
-| #22 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge_022.md) | [join](https://www.reddit.com/r/cad/comments/63yyfv/cad_challenge_22/) | | | | |
-| #23 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge_023.md) | [join](https://www.reddit.com/r/cad/comments/66nlzc/cad_challenge_23/) | | | | |
-| #24 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge_024.md) | [join](https://www.reddit.com/r/cad/comments/682a71/cad_challenge_24/) | | | | |
-| #25 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge_025.md) | [join](https://www.reddit.com/r/cad/comments/6c1wgd/cad_challenge_25/) | | | | |
-| #26 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge_026.md) | [join](https://www.reddit.com/r/cad/comments/6s5tvp/cad_challenge_26/) | | | | |
+| #1 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge-archive/r-cad-challenge_001.md) | [join](https://www.reddit.com/r/cad/comments/58skch/weekly_challenge_1/) | | | | |
+| #2 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge-archive/r-cad-challenge_002.md) | [join](https://www.reddit.com/r/cad/comments/59th79/weekly_challenge_2/) | | | | |
+| #3 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge-archive/r-cad-challenge_003.md) | [join](https://www.reddit.com/r/cad/comments/5b296e/weekly_challenge_3/) | | | | |
+| #4 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge-archive/r-cad-challenge_004.md) | [join](https://www.reddit.com/r/cad/comments/5cdbx7/weekly_challenge_4/) | | | | |
+| #5 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge-archive/r-cad-challenge_005.md) | [join](https://www.reddit.com/r/cad/comments/5dlw14/weekly_challenge_5/) | | | | |
+| #6 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge-archive/r-cad-challenge_006.md) | [join](https://www.reddit.com/r/cad/comments/5esoba/weekly_challenge_6/) | | | | |
+| #7 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge-archive/r-cad-challenge_007.md) | [join](https://www.reddit.com/r/cad/comments/5g239e/weekly_challenge_7/) | | | | |
+| #8 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge-archive/r-cad-challenge_008.md) | [join](https://www.reddit.com/r/cad/comments/5hcnzo/weekly_challenge_8/) | | | | |
+| #9 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge-archive/r-cad-challenge_009.md) | [join](https://www.reddit.com/r/cad/comments/5in0tc/cad_challenge_9/) | | | | |
+| #10 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge-archive/r-cad-challenge_010.md) | [join](https://www.reddit.com/r/cad/comments/5jwjim/cad_challenge_10/) | | | | |
+| #11 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge-archive/r-cad-challenge_011.md) | [join](https://www.reddit.com/r/cad/comments/5mcdhh/cad_challenge_11/) | | | | |
+| #12 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge-archive/r-cad-challenge_012.md) | [join](https://www.reddit.com/r/cad/comments/5np9qu/cad_challenge_12/) | | | | |
+| #13 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge-archive/r-cad-challenge_013.md) | [join](https://www.reddit.com/r/cad/comments/5p2lsd/cad_challenge_13/) | | | | |
+| #14 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge-archive/r-cad-challenge_014.md) | [join](https://www.reddit.com/r/cad/comments/5qfv41/cad_challenge_14/) | | | | |
+| #15 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge-archive/r-cad-challenge_015.md) | [join](https://www.reddit.com/r/cad/comments/5rswym/cad_challenge_15/) | | | | |
+| #16 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge-archive/r-cad-challenge_016.md) | [join](https://www.reddit.com/r/cad/comments/5t5z31/cad_challenge_16/) | | | | |
+| #17 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge-archive/r-cad-challenge_017.md) | [join](https://www.reddit.com/r/cad/comments/5ukztp/cad_challenge_17/) | | | | |
+| #18 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge-archive/r-cad-challenge_018.md) | [join](https://www.reddit.com/r/cad/comments/5vwdnc/cad_challenge_18/) | | | | |
+| #19 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge-archive/r-cad-challenge_019.md) | [join](https://www.reddit.com/r/cad/comments/5ykap4/cad_challenge_19/) | | | | |
+| #20 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge-archive/r-cad-challenge_020.md) | [join](https://www.reddit.com/r/cad/comments/5zw9ut/cad_challenge_20/) | | | | |
+| #21 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge-archive/r-cad-challenge_021.md) | [join](https://www.reddit.com/r/cad/comments/61b5ge/cad_challenge_21/) | | | | |
+| #22 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge-archive/r-cad-challenge_022.md) | [join](https://www.reddit.com/r/cad/comments/63yyfv/cad_challenge_22/) | | | | |
+| #23 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge-archive/r-cad-challenge_023.md) | [join](https://www.reddit.com/r/cad/comments/66nlzc/cad_challenge_23/) | | | | |
+| #24 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge-archive/r-cad-challenge_024.md) | [join](https://www.reddit.com/r/cad/comments/682a71/cad_challenge_24/) | | | | |
+| #25 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge-archive/r-cad-challenge_025.md) | [join](https://www.reddit.com/r/cad/comments/6c1wgd/cad_challenge_25/) | | | | |
+| #26 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge-archive/r-cad-challenge_026.md) | [join](https://www.reddit.com/r/cad/comments/6s5tvp/cad_challenge_26/) | | | | |
 | **Total:** | -- | -- | -- / 26 | -- / 26 | -- / 26 | -- / 26 |
 
 > - <sup>1</sup> -- partially completed;
