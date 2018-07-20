@@ -12,7 +12,7 @@
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 ```
 
-All challenges from [/r/cad](http://reddit.com/r/cad/) for draftsmans, draftswomans & draftskids (since October 22, 2016).
+[All challenges](https://old.reddit.com/r/cad/search?q=Challenge&restrict_sr=on&include_over_18=on) from [/r/cad](http://reddit.com/r/cad/) for draftsmans, draftswomans & draftskids (since October 22, 2016).
 
 | Challenge | Description | `/r/cad` | [FreeCAD](http://github.com/freecad/freecad/releases/) | [SolveSpace](http://github.com/solvespace/solvespace/releases/) | [LibreCAD](http://github.com/librecad/librecad/releases/) | other CAD |
 | ---: | :---: | :---: | :---: | :---: | :---: | :---: |
