@@ -42,7 +42,7 @@
 | #24 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge-archive/r-cad-challenge_024.md) | [join](https://www.reddit.com/r/cad/comments/682a71/cad_challenge_24/) | | | | |
 | #25 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge-archive/r-cad-challenge_025.md) | [join](https://www.reddit.com/r/cad/comments/6c1wgd/cad_challenge_25/) | | | | |
 | #26 | [read](http://github.com/symbian9/Reddit_CAD_Challenge/blob/master/r-cad-challenge-archive/r-cad-challenge_026.md) | [join](https://www.reddit.com/r/cad/comments/6s5tvp/cad_challenge_26/) | | | | |
-| **Total:** | -- | -- | -- / 26 | -- / 26 | -- / 26 | -- / 26 |
+| **Total:** | ... | ... | -- / 26 | -- / 26 | -- / 26 | -- / 26 |
 
 > - ¹ -- partially completed;
 > - ² -- has more than one solution;
